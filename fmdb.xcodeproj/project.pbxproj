@@ -7,6 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		333552DE1CD3ABA500E0BAC5 /* FMEncryptDatabase.h in Headers */ = {isa = PBXBuildFile; fileRef = 333552D61CD3ABA400E0BAC5 /* FMEncryptDatabase.h */; };
+		333552DF1CD3ABA500E0BAC5 /* FMEncryptDatabase.h in Headers */ = {isa = PBXBuildFile; fileRef = 333552D61CD3ABA400E0BAC5 /* FMEncryptDatabase.h */; };
+		333552E01CD3ABA500E0BAC5 /* FMEncryptDatabase.h in Headers */ = {isa = PBXBuildFile; fileRef = 333552D61CD3ABA400E0BAC5 /* FMEncryptDatabase.h */; };
+		333552E11CD3ABA500E0BAC5 /* FMEncryptDatabase.h in Headers */ = {isa = PBXBuildFile; fileRef = 333552D61CD3ABA400E0BAC5 /* FMEncryptDatabase.h */; };
+		333552E21CD3ABA500E0BAC5 /* FMEncryptDatabase.m in Sources */ = {isa = PBXBuildFile; fileRef = 333552D71CD3ABA500E0BAC5 /* FMEncryptDatabase.m */; };
+		333552E31CD3ABA500E0BAC5 /* FMEncryptDatabase.m in Sources */ = {isa = PBXBuildFile; fileRef = 333552D71CD3ABA500E0BAC5 /* FMEncryptDatabase.m */; };
+		333552E41CD3ABA500E0BAC5 /* FMEncryptDatabase.m in Sources */ = {isa = PBXBuildFile; fileRef = 333552D71CD3ABA500E0BAC5 /* FMEncryptDatabase.m */; };
+		333552E51CD3ABA500E0BAC5 /* FMEncryptDatabase.m in Sources */ = {isa = PBXBuildFile; fileRef = 333552D71CD3ABA500E0BAC5 /* FMEncryptDatabase.m */; };
+		333552E61CD3ABA500E0BAC5 /* FMEncryptDatabase.m in Sources */ = {isa = PBXBuildFile; fileRef = 333552D71CD3ABA500E0BAC5 /* FMEncryptDatabase.m */; };
+		333552E71CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.h in Headers */ = {isa = PBXBuildFile; fileRef = 333552D81CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.h */; };
+		333552E81CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.h in Headers */ = {isa = PBXBuildFile; fileRef = 333552D81CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.h */; };
+		333552E91CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.h in Headers */ = {isa = PBXBuildFile; fileRef = 333552D81CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.h */; };
+		333552EA1CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.h in Headers */ = {isa = PBXBuildFile; fileRef = 333552D81CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.h */; };
+		333552EB1CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 333552D91CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.m */; };
+		333552EC1CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 333552D91CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.m */; };
+		333552ED1CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 333552D91CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.m */; };
+		333552EE1CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 333552D91CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.m */; };
+		333552EF1CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 333552D91CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.m */; };
+		333552F01CD3ABA500E0BAC5 /* FMEncryptHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 333552DA1CD3ABA500E0BAC5 /* FMEncryptHelper.h */; };
+		333552F11CD3ABA500E0BAC5 /* FMEncryptHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 333552DA1CD3ABA500E0BAC5 /* FMEncryptHelper.h */; };
+		333552F21CD3ABA500E0BAC5 /* FMEncryptHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 333552DA1CD3ABA500E0BAC5 /* FMEncryptHelper.h */; };
+		333552F31CD3ABA500E0BAC5 /* FMEncryptHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 333552DA1CD3ABA500E0BAC5 /* FMEncryptHelper.h */; };
+		333552F41CD3ABA500E0BAC5 /* FMEncryptHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 333552DB1CD3ABA500E0BAC5 /* FMEncryptHelper.m */; };
+		333552F51CD3ABA500E0BAC5 /* FMEncryptHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 333552DB1CD3ABA500E0BAC5 /* FMEncryptHelper.m */; };
+		333552F61CD3ABA500E0BAC5 /* FMEncryptHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 333552DB1CD3ABA500E0BAC5 /* FMEncryptHelper.m */; };
+		333552F71CD3ABA500E0BAC5 /* FMEncryptHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 333552DB1CD3ABA500E0BAC5 /* FMEncryptHelper.m */; };
+		333552F81CD3ABA500E0BAC5 /* FMEncryptHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 333552DB1CD3ABA500E0BAC5 /* FMEncryptHelper.m */; };
 		3354379C19E71096005661F3 /* FMResultSetTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3354379B19E71096005661F3 /* FMResultSetTests.m */; };
 		40A145FE1BE5759400E5D35E /* FMDatabase.h in Headers */ = {isa = PBXBuildFile; fileRef = CCC24EBA0A13E34D00A6D3E3 /* FMDatabase.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		40A146001BE575D000E5D35E /* FMDatabase.h in Headers */ = {isa = PBXBuildFile; fileRef = CCC24EBA0A13E34D00A6D3E3 /* FMDatabase.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -118,6 +145,12 @@
 /* Begin PBXFileReference section */
 		08FB779EFE84155DC02AAC07 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
 		32A70AAB03705E1F00C91783 /* fmdb_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = fmdb_Prefix.pch; path = src/sample/fmdb_Prefix.pch; sourceTree = SOURCE_ROOT; };
+		333552D61CD3ABA400E0BAC5 /* FMEncryptDatabase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FMEncryptDatabase.h; path = src/fmdb/FMEncryptDatabase.h; sourceTree = "<group>"; };
+		333552D71CD3ABA500E0BAC5 /* FMEncryptDatabase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FMEncryptDatabase.m; path = src/fmdb/FMEncryptDatabase.m; sourceTree = "<group>"; };
+		333552D81CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FMEncryptDatabaseQueue.h; path = src/fmdb/FMEncryptDatabaseQueue.h; sourceTree = "<group>"; };
+		333552D91CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FMEncryptDatabaseQueue.m; path = src/fmdb/FMEncryptDatabaseQueue.m; sourceTree = "<group>"; };
+		333552DA1CD3ABA500E0BAC5 /* FMEncryptHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FMEncryptHelper.h; path = src/fmdb/FMEncryptHelper.h; sourceTree = "<group>"; };
+		333552DB1CD3ABA500E0BAC5 /* FMEncryptHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FMEncryptHelper.m; path = src/fmdb/FMEncryptHelper.m; sourceTree = "<group>"; };
 		3354379B19E71096005661F3 /* FMResultSetTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMResultSetTests.m; sourceTree = "<group>"; };
 		6290CBB5188FE836009790F8 /* libFMDB-IOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libFMDB-IOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6290CBB6188FE836009790F8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -289,6 +322,12 @@
 		8314AF3018CD737D00EC0E25 /* fmdb */ = {
 			isa = PBXGroup;
 			children = (
+				333552D61CD3ABA400E0BAC5 /* FMEncryptDatabase.h */,
+				333552D71CD3ABA500E0BAC5 /* FMEncryptDatabase.m */,
+				333552D81CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.h */,
+				333552D91CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.m */,
+				333552DA1CD3ABA500E0BAC5 /* FMEncryptHelper.h */,
+				333552DB1CD3ABA500E0BAC5 /* FMEncryptHelper.m */,
 				8314AF3218CD73D600EC0E25 /* FMDB.h */,
 				CCC24EBA0A13E34D00A6D3E3 /* FMDatabase.h */,
 				CCC24EBB0A13E34D00A6D3E3 /* FMDatabase.m */,
@@ -400,12 +439,15 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				333552E81CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.h in Headers */,
+				333552DF1CD3ABA500E0BAC5 /* FMEncryptDatabase.h in Headers */,
 				40A146001BE575D000E5D35E /* FMDatabase.h in Headers */,
 				40A146011BE575D600E5D35E /* FMResultSet.h in Headers */,
 				40A146041BE575EB00E5D35E /* FMDatabasePool.h in Headers */,
 				40A146051BE6999800E5D35E /* FMDB.h in Headers */,
 				40A146031BE575E400E5D35E /* FMDatabaseAdditions.h in Headers */,
 				40A146021BE575DD00E5D35E /* FMDatabaseQueue.h in Headers */,
+				333552F11CD3ABA500E0BAC5 /* FMEncryptHelper.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -413,12 +455,15 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				333552E91CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.h in Headers */,
+				333552E01CD3ABA500E0BAC5 /* FMEncryptDatabase.h in Headers */,
 				83C73F181C326BAB00FFC730 /* FMDB.h in Headers */,
 				83C73F191C326BAB00FFC730 /* FMDatabase.h in Headers */,
 				83C73F1A1C326BAB00FFC730 /* FMResultSet.h in Headers */,
 				83C73F1B1C326BAB00FFC730 /* FMDatabaseQueue.h in Headers */,
 				83C73F1C1C326BAB00FFC730 /* FMDatabaseAdditions.h in Headers */,
 				83C73F1D1C326BAB00FFC730 /* FMDatabasePool.h in Headers */,
+				333552F21CD3ABA500E0BAC5 /* FMEncryptHelper.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -426,12 +471,15 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				333552EA1CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.h in Headers */,
+				333552E11CD3ABA500E0BAC5 /* FMEncryptDatabase.h in Headers */,
 				83C73F231C326BD600FFC730 /* FMDB.h in Headers */,
 				83C73F241C326BD600FFC730 /* FMDatabase.h in Headers */,
 				83C73F251C326BD600FFC730 /* FMResultSet.h in Headers */,
 				83C73F261C326BD600FFC730 /* FMDatabaseQueue.h in Headers */,
 				83C73F271C326BD600FFC730 /* FMDatabaseAdditions.h in Headers */,
 				83C73F281C326BD600FFC730 /* FMDatabasePool.h in Headers */,
+				333552F31CD3ABA500E0BAC5 /* FMEncryptHelper.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -439,12 +487,15 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				333552E71CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.h in Headers */,
+				333552DE1CD3ABA500E0BAC5 /* FMEncryptDatabase.h in Headers */,
 				EE42910612B42FC30088BD94 /* FMDatabaseAdditions.h in Headers */,
 				EE42910912B42FD00088BD94 /* FMResultSet.h in Headers */,
 				40A145FE1BE5759400E5D35E /* FMDatabase.h in Headers */,
 				8314AF3318CD73D600EC0E25 /* FMDB.h in Headers */,
 				CC9E4EBA13B31188005F9210 /* FMDatabasePool.h in Headers */,
 				CC47A00F148581E9002CCDAB /* FMDatabaseQueue.h in Headers */,
+				333552F01CD3ABA500E0BAC5 /* FMEncryptHelper.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -636,7 +687,10 @@
 				621721B21892BFE30006691F /* FMDatabase.m in Sources */,
 				621721B61892BFE30006691F /* FMDatabasePool.m in Sources */,
 				621721B41892BFE30006691F /* FMDatabaseQueue.m in Sources */,
+				333552F61CD3ABA500E0BAC5 /* FMEncryptHelper.m in Sources */,
 				621721B51892BFE30006691F /* FMDatabaseAdditions.m in Sources */,
+				333552ED1CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.m in Sources */,
+				333552E41CD3ABA500E0BAC5 /* FMEncryptDatabase.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -648,7 +702,10 @@
 				83C73F141C326B9400FFC730 /* FMResultSet.m in Sources */,
 				83C73F151C326B9400FFC730 /* FMDatabaseQueue.m in Sources */,
 				83C73F161C326B9400FFC730 /* FMDatabaseAdditions.m in Sources */,
+				333552F71CD3ABA500E0BAC5 /* FMEncryptHelper.m in Sources */,
 				83C73F171C326B9400FFC730 /* FMDatabasePool.m in Sources */,
+				333552EE1CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.m in Sources */,
+				333552E51CD3ABA500E0BAC5 /* FMEncryptDatabase.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -660,7 +717,10 @@
 				83C73F1F1C326BC100FFC730 /* FMResultSet.m in Sources */,
 				83C73F201C326BC100FFC730 /* FMDatabaseQueue.m in Sources */,
 				83C73F211C326BC100FFC730 /* FMDatabaseAdditions.m in Sources */,
+				333552F81CD3ABA500E0BAC5 /* FMEncryptHelper.m in Sources */,
 				83C73F221C326BC100FFC730 /* FMDatabasePool.m in Sources */,
+				333552EF1CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.m in Sources */,
+				333552E61CD3ABA500E0BAC5 /* FMEncryptDatabase.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -671,9 +731,12 @@
 				CCC24EC20A13E34D00A6D3E3 /* FMDatabase.m in Sources */,
 				CCA66A2F19C0CB1900EFDAC1 /* FMTokenizers.m in Sources */,
 				CCC24EC50A13E34D00A6D3E3 /* main.m in Sources */,
+				333552E21CD3ABA500E0BAC5 /* FMEncryptDatabase.m in Sources */,
+				333552EB1CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.m in Sources */,
 				CCC24EC70A13E34D00A6D3E3 /* FMResultSet.m in Sources */,
 				CC7CE42818F5C04600938264 /* FMDatabase+InMemoryOnDiskIO.m in Sources */,
 				CC50F2CD0DF9183600E4AAAE /* FMDatabaseAdditions.m in Sources */,
+				333552F41CD3ABA500E0BAC5 /* FMEncryptHelper.m in Sources */,
 				CC9E4EB913B31188005F9210 /* FMDatabasePool.m in Sources */,
 				CC47A010148581E9002CCDAB /* FMDatabaseQueue.m in Sources */,
 				CCA66A2D19C0CB1900EFDAC1 /* FMDatabase+FTS3.m in Sources */,
@@ -706,7 +769,10 @@
 				EE42910512B42FBC0088BD94 /* FMDatabaseAdditions.m in Sources */,
 				EE42910A12B42FD20088BD94 /* FMResultSet.m in Sources */,
 				CC9E4EBB13B31188005F9210 /* FMDatabasePool.m in Sources */,
+				333552F51CD3ABA500E0BAC5 /* FMEncryptHelper.m in Sources */,
 				CC47A011148581E9002CCDAB /* FMDatabaseQueue.m in Sources */,
+				333552EC1CD3ABA500E0BAC5 /* FMEncryptDatabaseQueue.m in Sources */,
+				333552E31CD3ABA500E0BAC5 /* FMEncryptDatabase.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
