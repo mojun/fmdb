@@ -18,6 +18,12 @@ static NSString *encryptKey_;
     encryptKey_ = @"FDLSAFJEIOQJR34JRI4JIGR93209T489FR";
 }
 
+#pragma mark - 配置方法
++ (void)setEncryptKey:(NSString *)encryptKey
+{
+    encryptKey_ = encryptKey;
+}
+
 //对数据库加密（文件不变）
 + (BOOL)encryptDatabase:(NSString *)path
 {
