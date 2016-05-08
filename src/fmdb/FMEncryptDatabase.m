@@ -64,6 +64,27 @@ static NSString *encryptKey_;
     return YES;
 }
 
+- (BOOL)openWithFlags:(int)flags vfs:(NSString *)vfsName {
+    if (_db) {
+        return YES;
+    }
+    
+    int err = sqlite3_open_v2([self sqlitePath], (sqlite3**)&_db, flags, [vfsName UTF8String] /* Name of VFS module to use */);
+    if(err != SQLITE_OK) {
+        NSLog(@"error opening!: %d", err);
+        return NO;
+    } else {
+        //数据库open后设置加密key
+        [self setKey:encryptKey_];
+    }
+    if (_maxBusyRetryTimeInterval > 0.0) {
+        // set the handler
+        [self setMaxBusyRetryTimeInterval:_maxBusyRetryTimeInterval];
+    }
+    
+    return YES;
+}
+
 #endif
 
 - (const char*)sqlitePath {
